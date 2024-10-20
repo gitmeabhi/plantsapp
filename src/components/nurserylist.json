@@ -1,0 +1,38 @@
+  [
+    {
+        "ID" : "1",
+        "imageUrl": "https://res.cloudinary.com/dcbul0ogm/image/upload/v1729338195/362237370ea139219155cf9fca2448d3_rnqz2y.png",
+        "text": "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum   "
+    },
+    {
+        "ID" : "2",
+        "imageUrl": " https://res.cloudinary.com/dcbul0ogm/image/upload/v1729338278/8375cef653c6b9ae388a7f2dda4ba454_u5lgly.png",
+        "text": "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum   "
+    },
+    {
+        "ID" : "3",
+        "imageUrl": " https://res.cloudinary.com/dcbul0ogm/image/upload/v1729338320/935a62fb31df9354ded9299559307ae6_dascol.png",
+        "text": "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum   "
+    },
+    {
+        "ID" : "4",
+        "imageUrl": " https://res.cloudinary.com/dcbul0ogm/image/upload/v1729339347/7eca96d5008198d2181b991de6f19034_eyinuo.png",
+        "text": "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum   "
+    },
+    {
+        "ID" : "5",
+        "imageUrl": " https://res.cloudinary.com/dcbul0ogm/image/upload/v1729339377/ed50532940537d9d39d2626bb7a95167_lanowv.png",
+        "text": "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum   "
+    },
+    {
+        "ID" : "6",
+        "imageUrl": " https://res.cloudinary.com/dcbul0ogm/image/upload/v1729338320/935a62fb31df9354ded9299559307ae6_dascol.png",
+        "text": "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum   "
+    },
+    {
+        "ID" : "7",
+        "imageUrl": " https://res.cloudinary.com/dcbul0ogm/image/upload/v1729338278/8375cef653c6b9ae388a7f2dda4ba454_u5lgly.png",
+        "text": "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum   "
+    }
+]
+

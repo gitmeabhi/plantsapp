@@ -1,0 +1,118 @@
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: fit-content;
+    background: #F0FFE5;
+    height: 100%;
+   
+    padding: 20px;
+}
+.footer-list-container{
+    display: flex;
+    width: 100%;
+    
+}
+.head1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #000000;
+    padding-bottom: 10px;
+}
+.email-para{
+    font-size: 14px;
+    line-height: 21px;
+    color: #838383;
+    padding-bottom: 10px;
+    width: 100%;
+
+}
+.email-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    width: 200px;
+    max-width: 100%;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+
+.enter-email{
+    padding: 8px;
+    font-size: 12px;
+    border: 1px solid gray;
+    width: auto;
+    margin-bottom: 20px;
+}
+.subscribe-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 5px;
+    width: 130px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    background: #247822;
+   margin-bottom: 10px;
+}
+.subscribe-btn:hover{
+    background: #a56938b9;
+    transition: ease-in-out 0.3s;
+}
+
+.footer-small-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    list-style-type: none;
+}
+
+.small-item{
+    font-size: 14px;
+    line-height: 21px;
+    color: #838383;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    width: 15%;
+    padding-top: 15px;
+}
+.fulls{
+    padding: 20px 50px 20px 50px;
+}
+
+.last-foot{
+    color: #0000004D;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+   
+    border-top: 0.7px solid #0000004D;
+    padding: 15px;
+    width: auto;
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .footer-list-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    padding-right: 10px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    background-color: #fff;
+    padding-inline: 45px;
+}
+
+ a.active {
+    color:  #F3A939;
+    
+   }
+
+@media screen and (max-width : 768px) {
+    .navbar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+   
+}
+.navbar-left{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-right{
+    display: flex;
+    align-items: center;
+}
+.navbar-middle{
+    display: flex;
+    align-items: center;
+    
+   
+}
+.navbar-link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #000;
+    margin-left: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+.navbar-brand{
+    font-family:'Montserrat', sans-serif;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 26px;
+    font-weight: 600;
+    color:  #0F4811;
+    
+}
+
+.navbar-link:hover{
+   color: #F3A939;
+  
+}
+
+@media screen and (max-width : 768px) {
+    .navbar-brand{
+        margin-right: 0px;
+        display: none;
+    }
+    .navbar{
+        padding-inline: 10px;
+        border-bottom: 1px solid grey;
+    }
+    .navbar-middle{
+        display: none;
+    }
+}
